@@ -6,6 +6,6 @@ RUN cd /www; npm install
 COPY . /www
 WORKDIR /www
 
-ENV PORT 3000
+ENV PORT 3030
 
 CMD ["npm", "start"]

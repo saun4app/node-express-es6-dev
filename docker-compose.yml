@@ -2,4 +2,4 @@ node_express_es6_dev:
   build: .
   container_name: node_express_es6_dev
   ports:
-    - "3000:3000"
+    - "3030:3030"
